@@ -12,7 +12,7 @@ class Db
             "localhost",
             "root",
             "",
-            "demo_lap3"
+            "demo_lab3"
         );
 
         mysqli_set_charset($connection, 'utf8');
